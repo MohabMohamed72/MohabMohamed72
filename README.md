@@ -2,7 +2,15 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Frontend Developer with hands-on experience in React, Vue, Nuxt, TypeScript, and SCSS.  <br>📚 I'm currently teaching programming fundamentals and AI, focusing on Arduino and frontend technologies.  <br>🎓 Mechatronics Engineering graduate with a strong passion for bridging hardware and software.  <br>🔧 I have solid experience in embedded systems and C programming alongside web development.  <br>🎯 Goals: To build impactful web applications and empower students through accessible tech education.</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
